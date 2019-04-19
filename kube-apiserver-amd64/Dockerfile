@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.10.11
+FROM gcr.io/google_containers/kubernetes-apiserver-amd64
 
 MAINTAINER xingshanghe
